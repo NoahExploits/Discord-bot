@@ -1,0 +1,14 @@
+{
+  "name": "randombot",
+  "version": "1.0.0",
+  "description": "Random Bot is a bot made by Tumblr Developes it has many functions auto server check admin commands",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TumblrDevelopes#2478",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
